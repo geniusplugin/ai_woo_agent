@@ -159,4 +159,4 @@ AI Command: "List all unminified CSS files in theme"
 Outcome: Flags performance issues for optimization
 
 📘 Learn More:
-Visit GeniusPlugin.com → [GeniusPlugin Website](https://www.geniusplugin.com)
+Visit GeniusPlugin.com → [Best AI Agent](https://www.geniusplugin.com)
